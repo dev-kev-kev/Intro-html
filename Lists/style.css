@@ -1,13 +1,9 @@
-ul li {
-  list-style: square;
+.cities-ul li {
+  list-style: circle;
 }
 
-ol li {
-  list-style: upper-roman;
-}
-
-li {
-  color: red;
+.countries-ol li {
+  list-style: lower-greek;
 }
 
 h3 {
@@ -16,4 +12,14 @@ h3 {
 
 * {
   background-color: grey;
+}
+.movies-ul li {
+  list-style: square;
+}
+.cartoons-ol li {
+  list-style: upper-roman;
+}
+
+ul {
+  list-style-image: url("https://mdn.mozillademos.org/files/11981/starsolid.gif");
 }
