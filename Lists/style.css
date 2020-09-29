@@ -1,0 +1,19 @@
+ul li {
+  list-style: square;
+}
+
+ol li {
+  list-style: upper-roman;
+}
+
+li {
+  color: red;
+}
+
+h3 {
+  color: saddlebrown;
+}
+
+* {
+  background-color: grey;
+}
